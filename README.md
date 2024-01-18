@@ -1,3 +1,3 @@
 # Struttura DB per auto usate
 
-Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardanti delle auto usate messe in vendita da un concessionario.
+Questa repo contiene un immagine in formato jpeg che teorizza un possibile database di un concessionario che vende auto usate.
